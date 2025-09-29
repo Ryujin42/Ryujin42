@@ -1,4 +1,4 @@
-# POYO ! 
+# $${\color{pink}POYO!}$$
 ```
     ***+++***                                          
   **---:----=**          **                            
@@ -35,9 +35,19 @@
                  #%%%##%%%                             
 ```
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
+# $${\color{pink}Tech\ Stack:}$$
+<div style="text-align: center;">
+   
+   ![Bash Script](https://img.shields.io/badge/bash_script-e9d8d4.svg?style=for-the-badge&logo=gnu-bash&logoColor=8d192b)
+   ![Lua](https://img.shields.io/badge/lua-e9d8d4.svg?style=for-the-badge&logo=lua&logoColor=8d192b)
+   ![Python](https://img.shields.io/badge/python-e9d8d4?style=for-the-badge&logo=python&logoColor=8d192b)
+   ![Rust](https://img.shields.io/badge/rust-e9d8d4.svg?style=for-the-badge&logo=rust&logoColor=8d192b)
+   ![Qt](https://img.shields.io/badge/Qt-e9d8d4.svg?style=for-the-badge&logo=Qt&logoColor=8d192b)
+   ![GitHub](https://img.shields.io/badge/neovim-e9d8d4.svg?style=for-the-badge&logo=neovim&logoColor=8d192b)
+   ![GitHub](https://img.shields.io/badge/github-e9d8d4.svg?style=for-the-badge&logo=github&logoColor=8d192b)
+</div>
+
+# $${\color{pink}GitHub\ Stats:}$$
 ![](https://github-readme-stats.vercel.app/api?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ryujin42&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
