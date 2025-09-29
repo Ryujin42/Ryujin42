@@ -16,9 +16,9 @@
 
 <h1 align=center> $${\color{pink}GitHub\ Stats:}$$ </h1>
 <div float="left" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true" />
-   <img src="https://nirzak-streak-stats.vercel.app/?user=Ryujin42&theme=rose&hide_border=false" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /><br>
+   <img src="https://nirzak-streak-stats.vercel.app/?user=Ryujin42&theme=rose&hide_border=false" /><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
