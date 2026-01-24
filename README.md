@@ -1,6 +1,6 @@
 <h1 align=center>$${\color{pink}POYO!}$$</h1>
 <div float="left" align="center">
-    <img src="https://pa1.aminoapps.com/6204/0aff66b9e26d0ea04bc04167c72100dae572d260_hq.gif" width="50%" />
+    <img src="https://giffiles.alphacoders.com/163/163807.gif" width="50%" />
 </div><br>
 
 <p align=center>
