@@ -20,9 +20,9 @@
 
 <h1 align=center>$${\color{pink}GitHub\ Stats:}$$</h1>
 <div float="left" align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /><br>
-   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Ryujin42&theme=rose)](https://git.io/streak-stats)<br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true" /><br>-->
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryujin42&theme=rose" alt="GitHub Streak" /></a><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin42&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
